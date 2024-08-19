@@ -5,6 +5,9 @@ Data Cleaning & Preprocessing: Handling missing values, data normalization, and 
 Exploratory Data Analysis (EDA): Identifying key patterns and trends in sales data through visualizations and descriptive statistics.
 Product Performance Evaluation: Analyzing product categories and individual items to identify top performers and underperformers.
 
+![Dashboard Preview](Month-wise Sales.png)
+
+
 Technologies Used
 Programming Language: Python
 Data Manipulation: Pandas, NumPy
